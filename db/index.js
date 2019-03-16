@@ -4,7 +4,7 @@ let config = {
     host: 'localhost',
     user: 'root',
     password: '1994311',
-    database: 'project',
+    database: 'netease',
     port: 3306,
     multipleStatements: true,
 };
